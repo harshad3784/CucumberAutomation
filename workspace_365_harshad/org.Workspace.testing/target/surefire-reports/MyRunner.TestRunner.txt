@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: MyRunner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 36, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 123.271 sec <<< FAILURE!
+And close browser(Scenario: As a user, he/she should be able to add a personal Group)  Time elapsed: 0.012 sec  <<< ERROR!
+java.lang.NullPointerException
+	at stepDefinitions.StepDefinition.close_browser(StepDefinition.java:137)
+	at ?.And close browser(TestCaseOne.feature:22)
+
+Scenario: As a user, he/she should be able to add a personal Group  Time elapsed: 0.016 sec  <<< ERROR!
+java.lang.NullPointerException
+	at stepDefinitions.StepDefinition.close_browser(StepDefinition.java:137)
+	at ?.And close browser(TestCaseOne.feature:22)
+
+And close browser(Scenario: As a user, he/she should be able to add tiles to the group)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException
+	at stepDefinitions.StepDefinition.close_browser(StepDefinition.java:137)
+	at ?.And close browser(TestCaseOne.feature:38)
+
+Scenario: As a user, he/she should be able to add tiles to the group  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException
+	at stepDefinitions.StepDefinition.close_browser(StepDefinition.java:137)
+	at ?.And close browser(TestCaseOne.feature:38)
+
