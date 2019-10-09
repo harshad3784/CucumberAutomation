@@ -1,5 +1,5 @@
 # 
-The project contains Gherkin test scenarios to verify the functionality of create personel group, adding tiles to the group and finally deleting the personnel group..
+The project contains Gherkin test scenarios to verify the functionality of create personel group, adding tiles to the personal group and finally deleting the personnel group..
 
 ## Getting Started
 
